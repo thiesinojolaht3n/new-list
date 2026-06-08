@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://thiesinojolaht3n.github.io/new-list/sitemap.xml
